@@ -4,6 +4,9 @@ This matrix is an audit guide, not a replacement for inspecting the target
 Odoo source. Apply every intermediate version checklist for a multi-version
 migration.
 
+For version-specific API details, use the matching reference skill:
+`odoo-13.0`, `odoo-17.0`, `odoo-18.0`, `odoo-19.0`, or `odoo-20.0`.
+
 ## Every Version Boundary
 
 - [ ] Confirm report action field names, bindings, groups, and output types.

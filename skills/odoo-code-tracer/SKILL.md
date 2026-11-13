@@ -23,6 +23,7 @@ Identify the starting point:
 
 Detect the target Odoo version. If a version-specific reference exists, consult it before tracing version-sensitive behavior:
 
+- Odoo 13: `odoo-13.0`
 - Odoo 17: `odoo-17.0`
 - Odoo 18: `odoo-18.0`
 - Odoo 19: `odoo-19.0`

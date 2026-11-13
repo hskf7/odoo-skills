@@ -123,6 +123,7 @@ The point is not more ceremony. The point is fewer security bugs, fewer broken m
 | **[grill-with-docs](./skills/grill-with-docs/SKILL.md)** | Stress-test plans against project domain language, `CONTEXT.md`, and ADRs, updating docs as decisions crystallise. |
 | **[improve-codebase-architecture](./skills/improve-codebase-architecture/SKILL.md)** | Find deepening opportunities that make a codebase more testable, navigable, and modular. |
 | **[odoo](./skills/odoo/SKILL.md)** | General Odoo addon development: exploration, debugging, architecture review, manifest/docs sync, models, views, controllers, reports, tests, and security. |
+| **[odoo-13.0](./skills/odoo-13.0/SKILL.md)** | Odoo 13 reference guides for actions, controllers, data, decorators, fields, JavaScript widgets, manifests, migrations, mixins, models, performance, reports, security, testing, transactions, translations, and views. |
 | **[odoo-17.0](./skills/odoo-17.0/SKILL.md)** | Odoo 17 reference guides for actions, controllers, data, decorators, fields, manifests, migrations, mixins, models, OWL, performance, reports, security, testing, transactions, translations, and views. |
 | **[odoo-18.0](./skills/odoo-18.0/SKILL.md)** | Odoo 18 reference guides for actions, controllers, data, decorators, fields, manifests, migrations, mixins, models, OWL, performance, reports, security, testing, transactions, translations, and views. |
 | **[odoo-19.0](./skills/odoo-19.0/SKILL.md)** | Odoo 19 reference guides for actions, controllers, data, decorators, fields, manifests, migrations, mixins, models, OWL, performance, reports, security, testing, transactions, translations, and views. |
@@ -160,6 +161,7 @@ odoo-skills/
     ├── grill-with-docs/
     ├── improve-codebase-architecture/
     ├── odoo/
+    ├── odoo-13.0/
     ├── odoo-17.0/
     ├── odoo-18.0/
     ├── odoo-19.0/
@@ -260,10 +262,10 @@ OpenUpgrade workflows are not covered. The migration skill is for normal OCA mod
 
 | Metric | Value |
 |---|---|
-| Skills | 21 |
+| Skills | 22 |
 | Installer | `npx github:mart337i/odoo-skills` |
 | OCA migration coverage | `8.0` through `20.0` |
-| Version reference coverage | Odoo 17.0, 18.0, 19.0, 20.0 |
+| Version reference coverage | Odoo 13.0, 17.0, 18.0, 19.0, 20.0 |
 | Main focus | Odoo addon engineering plus generic engineering workflows |
 | Frontend coverage | OWL, Odoo assets, templates, QWeb, website, portal, reactivity, migration |
 | Report coverage | QWeb HTML/PDF design, print assets, paper formats, pagination, visual regression, report migration |

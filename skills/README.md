@@ -4,6 +4,7 @@
 - **[grill-with-docs](./grill-with-docs/SKILL.md)** - Grilling session that challenges plans against domain language, `CONTEXT.md`, and ADRs.
 - **[improve-codebase-architecture](./improve-codebase-architecture/SKILL.md)** - Find deepening opportunities that improve testability and AI-navigability.
 - **[odoo](./odoo/SKILL.md)** - Odoo addon development, exploration, debugging, architecture review, and manifest/docs sync.
+- **[odoo-13.0](./odoo-13.0/SKILL.md)** - Odoo 13 reference guides for actions, controllers, data, decorators, fields, JavaScript widgets, manifests, migrations, mixins, models, performance, reports, security, testing, transactions, translations, and views.
 - **[odoo-17.0](./odoo-17.0/SKILL.md)** - Odoo 17 reference guides for actions, controllers, data, decorators, fields, manifests, migrations, mixins, models, OWL, performance, reports, security, testing, transactions, translations, and views.
 - **[odoo-18.0](./odoo-18.0/SKILL.md)** - Odoo 18 reference guides for actions, controllers, data, decorators, fields, manifests, migrations, mixins, models, OWL, performance, reports, security, testing, transactions, translations, and views.
 - **[odoo-19.0](./odoo-19.0/SKILL.md)** - Odoo 19 reference guides for actions, controllers, data, decorators, fields, manifests, migrations, mixins, models, OWL, performance, reports, security, testing, transactions, translations, and views.

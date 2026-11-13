@@ -7,6 +7,7 @@ Use this when OWL code lives inside an Odoo addon. Verify local Odoo/OWL version
 Before editing Odoo frontend code, inspect:
 
 - Odoo branch/version (`16.0`, `17.0`, `18.0`, `19.0`, `20.0`, master, etc.).
+- Odoo 13.0 has no OWL: use the legacy widget framework documented in `odoo-13.0` (`references/odoo-13-javascript-guide.md`).
 - `$ODOO_SOURCE` when set.
 - Local OWL source under `addons/web/static/lib/owl` or equivalent.
 - Existing imports in the addon and nearby web modules.

@@ -483,6 +483,13 @@ script is genuinely unavoidable, the Odoo contract is `migrate(cr, version)` und
 `odoo.upgrade.util` only when the repository and target execution environment explicitly support
 it.
 
+## Odoo 13 Source References
+
+- [Odoo 13 source branch](https://github.com/odoo/odoo/tree/13.0)
+- [Odoo 13 release metadata](https://raw.githubusercontent.com/odoo/odoo/13.0/odoo/release.py)
+- [Odoo 13 ORM reference](https://github.com/odoo/documentation/blob/13.0/content/developer/reference/backend/orm.rst)
+- Detailed 13.0 API guidance: `odoo-13.0` skill
+
 ## Odoo 20 Source References
 
 - [Odoo 20 source branch](https://github.com/odoo/odoo/tree/20.0)

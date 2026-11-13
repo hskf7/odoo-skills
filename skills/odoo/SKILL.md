@@ -33,7 +33,7 @@ Before running Odoo update/test commands, inspect likely commands from repo docs
 - Review Odoo code for correctness, security, performance, tests, migrations, manifests, and official coding guidelines: use `odoo-code-review`.
 - Create or improve Odoo tests using TransactionCase, HttpCase, Form helper, tags, mocks, access tests, workflow tests, or test coverage patterns: use `odoo-test-writer`.
 - Migrate an OCA addon between Odoo major versions: use `odoo-migration`.
-- Need detailed known-version guidance: use `odoo-17.0`, `odoo-18.0`, `odoo-19.0`, or `odoo-20.0`.
+- Need detailed known-version guidance: use `odoo-13.0`, `odoo-17.0`, `odoo-18.0`, `odoo-19.0`, or `odoo-20.0`.
 
 ## Always Apply
 
